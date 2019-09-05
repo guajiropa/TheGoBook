@@ -15,5 +15,7 @@ func main() {
 
 	x[4] = 100
 
-	fmt.Printf("The array 'x' contains : %v", x)
+	fmt.Println("=====================================================")
+	fmt.Printf("The array 'x' contains these five values: \n%v\n", x)
+	fmt.Println("=====================================================")
 }
